@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Simon, and I am a Software Engineer, Cybersecurity Enthusiast, and a Chinese translator
+
+- 🔭 I’m currently working on a [Banking Application](https://github.com/simon200ok/bank-app-v1)
+- 🌱 I recently collaborated with a team to build a [Task Management Application](https://github.com/ChibuezeIkedinobi/To-Do-App)
+- 👯 I’m looking to collaborate on coding tasks, cybersecurity discussion topics, or Chinese-English translation challenges!
+  - Contact me simonkelvin2011@gmail.com
+
 <!--
 **simon200ok/simon200ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

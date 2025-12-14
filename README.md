@@ -2,8 +2,8 @@
 
 My name is Simon, and I am a Software Engineer, Cybersecurity Enthusiast, and a Chinese translator
 
-- 🔭 I’m currently working on a [Banking Application](https://github.com/simon200ok/bank-app-v1)
-- 🌱 I recently collaborated with a team to build a [Task Management Application](https://github.com/ChibuezeIkedinobi/To-Do-App)
+- 🔭 I’m currently working on an [eCommerce platform for a Footwear Business](https://github.com/Makky-S-Enterprise/makky-ecommerce-frontend.git)
+- 🌱 I recently collaborated with a team to build a [farm management and community platform](http://github.com/simon200ok/ifarmer-frontend-complete) and a [Banking Application](https://github.com/simon200ok/bank-app-v1)
 - 👯 I’m looking to collaborate on coding tasks, cybersecurity discussion topics, or Chinese-English translation challenges!
   - Contact me simonkelvin2011@gmail.com
 

@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is Simon, and I am a Software Engineer, Cybersecurity Enthusiast, and a Chinese translator
+My name is Simon, and I am a Software Engineer, Cybersecurity Enthusiast, and a Mandarin Chinese teacher
 
-- 🔭 I’m currently working on an [eCommerce platform for a Footwear Business](https://github.com/Makky-S-Enterprise/makky-ecommerce-frontend.git)
-- 🌱 I recently collaborated with a team to build a [sustainability application for the University of Sunderland](https://github.com/simon200ok/sustainable-travel-frontend) and a [Banking Application](https://github.com/simon200ok/bank-app-v1)
+- 🔭 I’m currently working on a [sustainability application for the University of Sunderland](https://github.com/simon200ok/sustainable-travel-frontend) and an [eCommerce platform for a Footwear Business](https://github.com/Makky-S-Enterprise/makky-ecommerce-frontend.git)
 - 👯 I’m looking to collaborate on coding tasks, cybersecurity discussion topics, or Chinese-English translation challenges!
-  - Contact me simonkelvin2011@gmail.com
+- Contact me: simonkelvin2011@gmail.com
+<!-- - 🌱 I recently collaborated with a team to build a  and a [Banking Application](https://github.com/simon200ok/bank-app-v1) -->
 
 <!--
 **simon200ok/simon200ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

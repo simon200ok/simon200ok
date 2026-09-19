@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-My name is Simon, and I am a Software Engineer, Cybersecurity Enthusiast, and a Mandarin Chinese teacher
+My name is Simon, and I am a Software Engineer, Cybersecurity Enthusiast, and a Mandarin Chinese teacher.
 
-- 🔭 I’m currently working on a [sustainability application for the University of Sunderland](https://github.com/simon200ok/sustainable-travel-frontend) and an [eCommerce platform for a Footwear Business](https://github.com/Makky-S-Enterprise/makky-ecommerce-frontend.git)
-- 👯 I’m looking to collaborate on coding tasks, cybersecurity discussion topics, or Chinese-English translation challenges!
-- Contact me: simonkelvin2011@gmail.com
+- I just concluded a research project titled [Mandarin-English Prompt Injection Detection Layer for LLM applications](https://github.com/simon200ok/mandeng-prompt-injection-dectlayer).
+- I am currently working on a [sustainability application for the University of Sunderland](https://github.com/simon200ok/sustainable-travel-frontend) and an [eCommerce platform for a Footwear Business](https://github.com/Makky-S-Enterprise/makky-ecommerce-frontend.git)
+- I am looking to collaborate on coding tasks, cybersecurity discussion topics, or Chinese-English translation challenges!
+- Feel free to reach out to me: simonkelvin2011@gmail.com
 <!-- - 🌱 I recently collaborated with a team to build a  and a [Banking Application](https://github.com/simon200ok/bank-app-v1) -->
 
 <!--
